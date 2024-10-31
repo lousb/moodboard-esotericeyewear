@@ -5,7 +5,7 @@
     z-index: 9999;
     height:120px;
     min-width: 100%;
-
+    pointer-events: none;
  
 
 
@@ -22,7 +22,7 @@ header > div{
 }
 .header-inner-content{
     height: 120px;
-
+    pointer-events: none;
     width:92%;
     margin:auto;
     margin-inline: 4%;

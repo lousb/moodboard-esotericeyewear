@@ -26,7 +26,7 @@ function Footer() {
             <div className={styles["footer-col-2"]}>
             </div>
             <div className={styles["footer-col-3"]}>
-                <p>Moodboard, Sidney Mahinya Shoot</p>
+                <p>Moodboard, Esoteric Eyewear</p>
   
 
      
