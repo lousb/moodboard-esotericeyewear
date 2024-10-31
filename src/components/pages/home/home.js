@@ -9,10 +9,9 @@ function Home() {
   return (<main className="home">
     <section className="section-one">
       <div className="section-one-title">
-        <Reveal element={'h1'} textContent={'The October Photoshoot, '}/>
-        <Reveal element={'h1'} textContent={'Interplaying light & subtly accentuating'}/>
-        <Reveal element={'h1'} textContent={'the handbag’s form, forming a narrative'}/>
-        <Reveal element={'h1'} textContent={'that elevates beyond accessory.'}/>
+        <Reveal element={'h1'} textContent={'Esoteric Eyew̶e̶a̶r̶'}/>
+        <Reveal element={'h1'} textContent={'Forming a narrative that'}/>
+        <Reveal element={'h1'} textContent={'elevates beyond accessory.'}/>
 
       </div>
       <Gallery/>
