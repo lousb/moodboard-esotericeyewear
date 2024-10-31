@@ -14,4 +14,8 @@ a, p, span{
     transform: translateY(0%) translateZ(0px) !important;
     opacity: 1 !important;
 }
+.reveal-inner{
+    clip-path: inset(0%) !important;
+    transition: 0s !important;
+}
 }
