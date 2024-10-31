@@ -12,6 +12,7 @@ function Home() {
         <Reveal element={'h1'} textContent={'Esoteric Eyew̶e̶a̶r̶'}/>
         <Reveal element={'h1'} textContent={'Forming a narrative that'}/>
         <Reveal element={'h1'} textContent={'elevates beyond accessory.'}/>
+        <Reveal element={'h1'} textContent={'For the professional.'}/>
 
       </div>
       <Gallery/>
